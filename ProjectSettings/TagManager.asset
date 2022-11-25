@@ -3,12 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Mapa
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Mapa
   - Water
   - UI
   - 
